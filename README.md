@@ -1,4 +1,4 @@
-# Coursera---Applied-Data-Science-Capstone
+# Coursera-Applied-Data-Science-Capstone
 10 course, Final task - Applied Data Science Capstone
 
 # SpaceX Falcon 9 Landing Prediction — Applied Data Science Capstone
