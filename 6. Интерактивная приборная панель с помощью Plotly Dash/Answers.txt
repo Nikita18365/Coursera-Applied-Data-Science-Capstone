@@ -1,0 +1,14 @@
+1. Which site has the largest successful launches?
+KSC LC-39A имеет наибольшее количество успешных запусков.
+
+2. Which site has the highest launch success rate?
+KSC LC-39A имеет наиболее высокий показатель успешности среди площадок в используемом наборе данных.
+
+3. Which payload range(s) has the highest launch success rate?
+Наиболее высокая успешность визуально наблюдается примерно в диапазоне 2 000–5 500 кг.
+
+4. Which payload range(s) has the lowest launch success rate?
+Больше неудачных запусков наблюдается среди относительно малых полезных нагрузок, особенно примерно до 2 000 кг.
+
+5. Which F9 Booster version has the highest launch success rate?
+Среди поздних версий наиболее высокую успешность показывает Falcon 9 B5 (Block 5).
